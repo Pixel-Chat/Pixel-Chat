@@ -1,5 +1,4 @@
 # Pixel-Chat
-This repo contains roadmap info and bug reports/discussions
 
 # Bugs:
 ### If you want to view active bugs and know what is on our todo list click [here](https://github.com/Pixel-Chat/Pixel-Chat/projects/2)
